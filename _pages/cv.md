@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in ORIE, Cornell University, 2025 (expected)
+* M.S. in ORIE, Cornell University, 2023
+* A.B. in Statistics, Washington University in St. Louis, 2018
+
+Service and leadership
+======
+* Women in OR Officer, ORGA, Cornell University, 2021 - 2022 
+
+Awards and honors
+======
+* Distinction in Mathematics, Washington University in St. Louis, 2018
+* Phi Beta Kappa, 2018
+* Delta Phi Alpha, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2018 - May 2019: Investment Strategies Analyst, NISA Investment Advisors
+* June 2017 - December 2017: Actuarial Intern, Reinsurance Group of America
+* June 2016 - August 2016: Private Equity Research Intern, StepStone Group
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C++, MATLAB, Python, R
+* Languages: Mandarin Chinese (native), English (proficient), German (basic)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
