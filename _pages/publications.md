@@ -9,31 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Working Papers
 ======
-* Ph.D in ORIE, Cornell University, 2025 (expected)
-* M.S. in ORIE, Cornell University, 2023
-* A.B. in Statistics, Washington University in St. Louis, 2018
+* Asymptotic Product-Form Steady-State for Multi-Class Queueing Networks With SBP Service Policies in Multi-Scale Heavy Traffic<br> Jim Dai, **Dongyan (Lucy) Huo**<br> arXiv preprint 2024<br> [(arXiv)](https://arxiv.org/abs/2403.04090)
+* The Collusion of Memory and Nonlinearity in Stochastic Approximation With Constant Stepsize<br> **Dongyan (Lucy) Huo**, Yixuan Zhang, Yudong Chen, Qiaomin Xie<br> arXiv preprint 2024<br> [(arXiv)](https://arxiv.org/abs/2405.16732)
+* Switch Scheduling via Reinforcement Learning<br> **Dongyan (Lucy) Huo**, Yudong Chen, Jim Dai, Qiaomin Xie<br>
 
-Service and leadership
+Conference Publications
 ======
-* Women in OR Officer, ORGA, Cornell University, 2021 - 2022 
+* Prelimit Coupling and Steady-State Convergence of Constant-stepsize Nonsmooth Contractive SA<br> Yixuan Zhang, **Dongyan (Lucy) Huo**, Yudong Chen, Qiaomin Xie<br> ACM SIGMETRICS 2024<br> [(arXiv)](https://arxiv.org/abs/2404.06023)
+* Effectiveness of Constant Stepsize in Markovian LSA and Statistical Inference<br> **Dongyan (Lucy) Huo**, Yudong Chen, Qiaomin Xie<br> Annual AAAI Conference on Artificial Intelligence 2024<br> [(arXiv)](https://arxiv.org/abs/2312.10894)
+* Bias and Extrapolation in Markovian Linear Stochastic Approximation with Constant Stepsizes<br> **Dongyan (Lucy) Huo**, Yudong Chen, Qiaomin Xie<br> ACM SIGMETRICS 2023<br> [(arXiv)](https://arxiv.org/abs/2210.00953)
+* Decentralized Governance of Stablecoins with Closed Form Valuation<br> **Dongyan (Lucy) Huo**, Ariah Klages-Mundt, Andreea Minca, Frederik Christian Münter, Mads Rude Wind<br>  International Conference on Mathematical Research for Blockchain Economy 2022<br> [(arXiv)](https://arxiv.org/abs/2210.00953)
 
-Awards and honors
-======
-* Distinction in Mathematics, Washington University in St. Louis, 2018
-* Phi Beta Kappa, 2018
-* Delta Phi Alpha, 2017
 
-Work experience
-======
-* January 2018 - May 2019: Investment Strategies Analyst, NISA Investment Advisors
-* June 2017 - December 2017: Actuarial Intern, Reinsurance Group of America
-* June 2016 - August 2016: Private Equity Research Intern, StepStone Group
-  
-Skills
-======
-* Programming Languages: C++, MATLAB, Python, R
-* Languages: Mandarin Chinese (native), English (proficient), German (basic)
+
 
   
