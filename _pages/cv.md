@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in ORIE, Cornell University, 2025 (expected)
 * M.S. in ORIE, Cornell University, 2023
-* A.B. in Statistics, Washington University in St. Louis, 2018<br>
+* A.B. in Statistics, Washington University in St. Louis, 2018
   * Second major in Finance, minor in German
 
 Service and Leadership
