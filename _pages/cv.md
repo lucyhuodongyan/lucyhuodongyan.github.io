@@ -17,7 +17,8 @@ Education
 
 Service and Leadership
 ======
-* Women in OR Officer, ORGA, Cornell University, 2021 - 2022 
+* Women in OR Officer, Operations Research Graduate Association, Cornell University, 2021 - 2022
+* Program Instructor, CURIE Academy, Cornell University, Summer 2020
 
 Awards and Honors
 ======
