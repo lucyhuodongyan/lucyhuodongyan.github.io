@@ -15,17 +15,17 @@ Education
 * M.S. in ORIE, Cornell University, 2023
 * A.B. in Statistics, Washington University in St. Louis, 2018
 
-Service and leadership
+Service and Leadership
 ======
 * Women in OR Officer, ORGA, Cornell University, 2021 - 2022 
 
-Awards and honors
+Awards and Honors
 ======
 * Distinction in Mathematics, Washington University in St. Louis, 2018
 * Phi Beta Kappa, 2018
 * Delta Phi Alpha, 2017
 
-Work experience
+Work Experience
 ======
 * January 2018 - May 2019: Investment Strategies Analyst, NISA Investment Advisors
 * June 2017 - December 2017: Actuarial Intern, Reinsurance Group of America
