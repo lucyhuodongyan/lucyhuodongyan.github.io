@@ -24,14 +24,14 @@ Service and Leadership
 Awards and Honors
 ======
 * Distinction in Mathematics, Washington University in St. Louis, 2018
-* Phi Beta Kappa, 2018
-* Delta Phi Alpha, 2017
+* Phi Beta Kappa, Washington University in St. Louis, 2018
+* Delta Phi Alpha, Washington University in St. Louis, 2017
 
 Work Experience
 ======
-* January 2018 - May 2019: Investment Strategies Analyst, NISA Investment Advisors
-* June 2017 - December 2017: Actuarial Intern, Reinsurance Group of America
-* June 2016 - August 2016: Private Equity Research Intern, StepStone Group
+* Investment Strategies Analyst, NISA Investment Advisors, January 2018 - May 2019
+* Actuarial Intern, Reinsurance Group of America, June 2017 - December 2017
+* Private Equity Research Intern, StepStone Group, June 2016 - August 2016
   
 Skills
 ======
