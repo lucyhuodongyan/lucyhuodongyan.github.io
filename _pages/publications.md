@@ -14,7 +14,7 @@ Working Papers
 * Asymptotic Product-Form Steady-State for Multi-Class Queueing Networks With SBP Service Policies in Multi-Scale Heavy Traffic<br> Jim Dai, **Dongyan (Lucy) Huo**<br> arXiv preprint 2024<br> [(arXiv)](https://arxiv.org/abs/2403.04090)
 * Switch Scheduling via Reinforcement Learning<br> **Dongyan (Lucy) Huo**, Yudong Chen, Jim Dai, Qiaomin Xie<br> [(GitHub)](https://github.com/lucyhuodongyan/RL4Switch)
 
-Conference Publications
+Publications
 ======
 * The Collusion of Memory and Nonlinearity in Stochastic Approximation With Constant Stepsize<br> **Dongyan (Lucy) Huo**, Yixuan Zhang, Yudong Chen, Qiaomin Xie<br> Annual Conference on Neural Information Processing Systems (NeurIPS) 2024, Spotlight<br> [(arXiv)](https://arxiv.org/abs/2405.16732)
 * Prelimit Coupling and Steady-State Convergence of Constant-stepsize Nonsmooth Contractive SA<br> Yixuan Zhang, **Dongyan (Lucy) Huo**, Yudong Chen, Qiaomin Xie<br> ACM SIGMETRICS 2024<br> [(arXiv)](https://arxiv.org/abs/2404.06023)
