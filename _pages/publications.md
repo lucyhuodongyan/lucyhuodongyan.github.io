@@ -11,7 +11,7 @@ redirect_from:
 
 Working Papers
 ======
-* Asymptotic Product-Form Steady-State for Multi-Class Queueing Networks With SBP Service Policies in Multi-Scale Heavy Traffic<br> Jim Dai, **Dongyan (Lucy) Huo**<br> arXiv preprint 2024<br> [(arXiv)](https://arxiv.org/abs/2403.04090)
+* Asymptotic Product-Form Steady-State for Multi-Class Queueing Networks With SBP Service Policies in Multi-Scale Heavy Traffic<br> Jim Dai, **Dongyan (Lucy) Huo**<br> Submitted to Operations Research<br>[(arXiv)](https://arxiv.org/abs/2403.04090) <br> Companion paper: Asymptotic Product-form Steady-state for Multiclass Queueing Networks: A Reentrant Line Case Study<br> [(arXiv)](https://arxiv.org/abs/2411.00930)
 * Switch Scheduling via Reinforcement Learning<br> **Dongyan (Lucy) Huo**, Yudong Chen, Jim Dai, Qiaomin Xie<br> [(GitHub)](https://github.com/lucyhuodongyan/RL4Switch)
 
 Publications
