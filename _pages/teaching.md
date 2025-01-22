@@ -14,7 +14,7 @@ Teaching Assistant
 **Cornell University**
 * ENGRD 2700 Basic Engineering Probability and Statistics: Summer 2021
 * ORIE 3500 Engineering Probability and Statistics II: Fall 2021, Fall 2023
-* ORIE 3510 Introduction to Engineering Stochastic Processes I: Spring 2022, Spring 2023
+* ORIE 3510 Introduction to Engineering Stochastic Processes I: Spring 2022, Spring 2023, Spring 2025
 * ORIE 4160 Topics in Data Science and OR: Spring 2024
 * ORIE 5600 Financial Engineering with Stochastic Calculus I: Fall 2019
 * ORIE 5640 Statistics for Financial Engineering: Spring 2020
