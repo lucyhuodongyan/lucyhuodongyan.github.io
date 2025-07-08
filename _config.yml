@@ -24,11 +24,11 @@ author:
   avatar           : "lh-profile.png"
   name             : "Dongyan (Lucy) Huo"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "Ithaca, NY, USA"
-  employer         : "Cornell University"
+  bio              : "Assistant Professor"
+  location         : "Clear Water Bay, Kowloon, Hong Kong"
+  employer         : "HKUST"
   uri              : # URL
-  email            : "dh622@cornell.edu" 
+  email            : "lucyhuo@ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
