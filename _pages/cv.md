@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* Assistant Professor, IEDA, HKUST, July 2025 - present
+
 Education
 ======
 * Ph.D in ORIE, Cornell University, 2025 (expected)
