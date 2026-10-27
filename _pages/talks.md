@@ -11,6 +11,9 @@ redirect_from:
 
 Invited Talks
 ======
+**2026**
+* POMS-HK International Meeting
+
 **2025**
 * Data-driven Techniques in Operations Research Workshop
 * Young European Queueing Theorists Workshop
