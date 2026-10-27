@@ -1,4 +1,4 @@
----
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/449dbaad-97d8-4efa-8467-508f9c99bc73" />---
 layout: archive
 title: # "CV"
 permalink: /teaching/
@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Instructor
+======
+**HKUST**
+* IEDA 3560 Predictive Analytics: Spring 2026
+* IEDA 4000E Statistical Modeling for Financial Engineering: Fall 2025, Fall 2026
+
+
 
 Teaching Assistant
 ======
