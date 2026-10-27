@@ -15,7 +15,7 @@ Employment
 
 Education
 ======
-* Ph.D in ORIE, Cornell University, 2025 (expected)
+* Ph.D in ORIE, Cornell University, 2025
 * M.S. in ORIE, Cornell University, 2023
 * A.B. in Statistics, Washington University in St. Louis, 2018
   * Second major in Finance, minor in German
