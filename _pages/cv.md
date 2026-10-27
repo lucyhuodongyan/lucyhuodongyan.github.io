@@ -15,7 +15,7 @@ Employment
 
 Education
 ======
-* Ph.D in ORIE, Cornell University, 2025
+* Ph.D. in ORIE, Cornell University, 2025
 * M.S. in ORIE, Cornell University, 2023
 * A.B. in Statistics, Washington University in St. Louis, 2018
   * Second major in Finance, minor in German
@@ -31,7 +31,7 @@ Awards and Honors
 * Phi Beta Kappa, Washington University in St. Louis, 2018
 * Delta Phi Alpha, Washington University in St. Louis, 2017
 
-Work Experience
+Industry Experience
 ======
 * Investment Strategies Analyst, NISA Investment Advisors, January 2018 - May 2019
 * Actuarial Intern, Reinsurance Group of America, June 2017 - December 2017
