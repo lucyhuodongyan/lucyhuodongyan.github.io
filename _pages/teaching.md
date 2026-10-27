@@ -1,4 +1,4 @@
-<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/449dbaad-97d8-4efa-8467-508f9c99bc73" />---
+---
 layout: archive
 title: # "CV"
 permalink: /teaching/
